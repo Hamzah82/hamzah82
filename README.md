@@ -1,13 +1,13 @@
 # 👨‍💻 Awangku Muhammad Hamzah
 
-> Student | Web Developer | Aspiring Cybersecurity Specialist  
+> Informatics Student | Web Developer | Aspiring Cybersecurity Specialist  
 > Based in Surabaya, Indonesia
 
 ---
 
 ## 🧠 About Me
 
-Hi! I’m **Hamzah**, a high school student at **MAN Kota Surabaya** with a strong passion for technology — especially programming, Linux systems, and cybersecurity. I enjoy building useful tools, learning how systems work under the hood, and sharing knowledge through code.  
+Hi! I’m **Hamzah**, an Informatics student at **UPN "Veteran" Jawa Timur** and a graduate of **MAN Kota Surabaya** with a strong passion for technology — especially programming, Linux systems, and cybersecurity. I enjoy building useful tools, learning how systems work under the hood, and sharing knowledge through code.  
 
 I'm currently sharpening my skills in **Python, networking, Linux hardening, and ethical hacking**. My ultimate goal is to become an **independent cybersecurity expert** and contribute to a safer digital world.
 
